@@ -1,0 +1,23 @@
+=========================================================================================
+Run Name:      oreganov                            Sample no:      001
+Cycle Time:    1s                                  No of Cycles:   60
+Dark Count:    30 c/s                              Light Count:    31 c/s
+Low Threshold: 700 counts                          High Threshold: 5000 counts
+
+Datafile Folder Path: C:\Documents and Settings\PSL USER\Desktop\oreganov\
+Summary File Path:    C:\Documents and Settings\PSL USER\Desktop\oreganov\oreganov.sum
+-----------------------------------------------------------------------------------------
+\ Date & Time Summary File Started: 18/06/2019 16:48:40 /
+ '-----------------------------------------------------'
+
+No.      Filename              Sample Label              Terminal Count         Result   
+---   ----------------   --------------------------   --------------------   ------------
+
+001   oreganov001.psl    oreni                                363 +/-   47   Negative
+002   oreganov002.psl    oreni2                               279 +/-   46   Negative
+003   oreganov003.psl    oreni3                               371 +/-   47   Negative
+004   oreganov004.psl    oreni4                               295 +/-   46   Negative
+005   oreganov005.psl    oreni5                               314 +/-   46   Negative
+006   oreganov006.psl    oreni6                               341 +/-   46   Negative
+007   oreganov007.psl    oreni7                               258 +/-   45   Negative
+008   oreganov008.psl    oreni8                               352 +/-   46   Negative
